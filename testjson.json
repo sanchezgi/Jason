@@ -1,3 +1,21 @@
-{
-    "name": "alex"
-}
+[
+    {    
+        "characterclass": "Titan",
+        "power": "1902",
+        "race": "Exo Male",
+        "level": "level 30",        
+    },
+    {    
+        "characterclass": "Warlock",
+        "power": "1350",
+        "race": "Human Male",
+        "level": "level 30",        
+    },
+     {    
+        "characterclass": "Hunter",
+        "power": "1657",
+        "race": "Awoken Male",
+        "level": "level 30",        
+    }
+]
+
