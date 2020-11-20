@@ -4,21 +4,18 @@
         "power": 1902,
         "race": "Exo Male",
         "level": "level 30",
-        "image" : 1
     },
     {    
         "characterclass": "Warlock",
         "power": 1350,
         "race": "Human Male",
         "level": "level 30", 
-        "image" : 2
     },
      {    
         "characterclass": "Hunter",
         "power": 1657,
         "race": "Awoken Male",
         "level": "level 30", 
-        "image" : 3
     }
 ]
 
