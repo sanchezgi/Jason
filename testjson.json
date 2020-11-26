@@ -4,42 +4,48 @@
         "characterclass": "Titan",
         "race": "Exo Male",
         "level": "level 30",
-        "image": "https://cdn.shopify.com/s/files/1/0279/3062/4082/products/Ultraworld-Emblem-1_1200x1200.png?v=1588437835"
+        "image": "https://cdn.shopify.com/s/files/1/0279/3062/4082/products/Ultraworld-Emblem-1_1200x1200.png?v=1588437835",
+        "weapon":["pistola","escopeta","automatico"]
     },
     {    
         "power": 1350,
         "characterclass": "Warlock",
         "race": "Human Male",
         "level": "level 30",
-         "image": "https://cdn.shopify.com/s/files/1/0417/0233/products/1000x1000_ProductImage.png?v=1569599684"
+         "image": "https://cdn.shopify.com/s/files/1/0417/0233/products/1000x1000_ProductImage.png?v=1569599684",
+         "weapon":["pistola","escopeta","automatico"]
     },
     {    
         "power": 1657,
         "characterclass": "Hunter",
         "race": "Awoken Male",
         "level": "level 30",
-        "image": "https://cdn.shopify.com/s/files/1/0417/0233/products/emblem_soundtrack_grande_724d61b6-da85-4677-b061-afa527fc6b59.jpg?v=1569386073"
+        "image": "https://cdn.shopify.com/s/files/1/0417/0233/products/emblem_soundtrack_grande_724d61b6-da85-4677-b061-afa527fc6b59.jpg?v=1569386073",
+        "weapon":["pistola","escopeta","automatico"]
     },
     {  
         "power": 758,
         "characterclass": "Warlock",
         "race": "Human Female",
         "level": "level 22",
-        "image": "https://cdn.shopify.com/s/files/1/0279/3062/4082/products/Archivists-Prize-Emblem-1_grande.jpg?v=1587660793"
+        "image": "https://cdn.shopify.com/s/files/1/0279/3062/4082/products/Archivists-Prize-Emblem-1_grande.jpg?v=1587660793",
+        "weapon":["pistola","escopeta","automatico"]
     },
     {    
         "power": 1578,
         "characterclass": "Titan",
         "race": "Awoken Female",
         "level": "level 30",
-         "image": "https://cdn.shopify.com/s/files/1/0279/3062/4082/products/Hellspawn-Emblem-1_grande.jpg?v=1587224052"
+         "image": "https://cdn.shopify.com/s/files/1/0279/3062/4082/products/Hellspawn-Emblem-1_grande.jpg?v=1587224052",
+        "weapon":["pistola","escopeta","automatico"]
     },
     {    
         "power": 985,
         "characterclass": "Hunter",
         "race": "Exo Female",
         "level": "level 25",
-        "image": "https://cdn.shopify.com/s/files/1/0417/0233/products/emblem_219285f8-d7dc-40da-9b16-953ada48abd5_large.png?v=1543948601"
+        "image": "https://cdn.shopify.com/s/files/1/0417/0233/products/emblem_219285f8-d7dc-40da-9b16-953ada48abd5_large.png?v=1543948601",
+        "weapon":["pistola","escopeta","automatico"]
     }
 ]
 
