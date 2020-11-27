@@ -5,7 +5,15 @@
         "race": "Exo Male",
         "level": "level 30",
         "image": "https://cdn.shopify.com/s/files/1/0279/3062/4082/products/Ultraworld-Emblem-1_1200x1200.png?v=1588437835",
-        "weapon":["https://d2.destinygamewiki.com/mediawiki/images/a/aa/Thorn_icon1.jpg","https://d2.destinygamewiki.com/mediawiki/images/c/c6/The_last_word_icon1.jpg","https://d2.destinygamewiki.com/mediawiki/images/5/5f/IMG_8812.JPG","https://d2.destinygamewiki.com/mediawiki/images/6/67/Not_forgotten_icon1.jpg","https://d2.destinygamewiki.com/mediawiki/images/d/dd/Midnight_coup_icon1.jpg"]
+        "weapon":[
+                   "https://d2.destinygamewiki.com/mediawiki/images/a/aa/Thorn_icon1.jpg","https://d2.destinygamewiki.com/mediawiki/images/c/c6/The_last_word_icon1.jpg",
+                   "https://d2.destinygamewiki.com/mediawiki/images/5/5f/IMG_8812.JPG","https://d2.destinygamewiki.com/mediawiki/images/6/67/Not_forgotten_icon1.jpg",
+                   "https://d2.destinygamewiki.com/mediawiki/images/d/dd/Midnight_coup_icon1.jpg",
+                   "https://d2.destinygamewiki.com/mediawiki/images/e/e1/Hard_light_icon1.png",
+                   " https://d2.destinygamewiki.com/mediawiki/images/7/72/Monte_carlo_icon1.jpg",
+                   "https://d2.destinygamewiki.com/mediawiki/images/7/72/Monte_carlo_icon1.jpg",
+                   "https://d2.destinygamewiki.com/mediawiki/images/8/86/Uriel%27s_gift_icon1.jpg"
+                 ]
     },
     {    
         "power": 1350,
