@@ -34,25 +34,25 @@
         "level": "level 30",
          "image": "https://cdn.shopify.com/s/files/1/0417/0233/products/1000x1000_ProductImage.png?v=1569599684",
          "primaryweapon":[
-                   "https://d2.destinygamewiki.com/mediawiki/images/a/aa/Thorn_icon1.jpg",
-                   "https://d2.destinygamewiki.com/mediawiki/images/c/c6/The_last_word_icon1.jpg",
-                   "https://d2.destinygamewiki.com/mediawiki/images/6/6a/SUROS_Regime.jpg",
-                   "https://d2.destinygamewiki.com/mediawiki/images/d/dd/Midnight_coup_icon1.jpg",
-                   "https://d2.destinygamewiki.com/mediawiki/images/1/1f/Chattering_bone_icon1.jpg",
-                   "https://d2.destinygamewiki.com/mediawiki/images/b/b5/Izanagi%27s_burden_icon1.jpg"             
+            {"power":1354,"image":"https://d2.destinygamewiki.com/mediawiki/images/a/aa/Thorn_icon1.jpg", "type" : 0},
+            {"power":1524,"image":"https://d2.destinygamewiki.com/mediawiki/images/c/c6/The_last_word_icon1.jpg","type":0},
+            {"power":1025,"image":"https://d2.destinygamewiki.com/mediawiki/images/6/6a/SUROS_Regime.jpg","type":0},
+            {"power":1345,"image":"https://d2.destinygamewiki.com/mediawiki/images/d/dd/Midnight_coup_icon1.jpg","type":0},
+            {"power":1264,"image":"https://d2.destinygamewiki.com/mediawiki/images/1/1f/Chattering_bone_icon1.jpg","type":0},
+            {"power":1235,"image":"https://d2.destinygamewiki.com/mediawiki/images/b/b5/Izanagi%27s_burden_icon1.jpg","type":0}             
                  ],
         "specialweapon":[
-                    "https://d2.destinygamewiki.com/mediawiki/images/6/67/Not_forgotten_icon1.jpg",
-                    "https://d2.destinygamewiki.com/mediawiki/images/e/e1/Hard_light_icon1.png",
-                    "https://d2.destinygamewiki.com/mediawiki/images/8/86/Uriel%27s_gift_icon1.jpg",
-                    "https://d2.destinygamewiki.com/mediawiki/images/5/54/The_recluse_icon1.jpg",
-                    "https://d2.destinygamewiki.com/mediawiki/images/2/22/Beloved_icon1.jpg"           
+            {"power":1324,"image":"https://d2.destinygamewiki.com/mediawiki/images/6/67/Not_forgotten_icon1.jpg","type":1},
+            {"power":1654,"image":"https://d2.destinygamewiki.com/mediawiki/images/e/e1/Hard_light_icon1.png","type":2},
+            {"power":954,"image":"https://d2.destinygamewiki.com/mediawiki/images/8/86/Uriel%27s_gift_icon1.jpg","type":3},
+            {"power":1459,"image":"https://d2.destinygamewiki.com/mediawiki/images/5/54/The_recluse_icon1.jpg","type":3},
+            {"power":1743,"image":"https://d2.destinygamewiki.com/mediawiki/images/2/22/Beloved_icon1.jpg" ,"type":1}          
             ],
         "heavyweapon":[
-                    "https://d2.destinygamewiki.com/mediawiki/images/1/19/Tractor_cannon_icon1.png",
-                    "https://d2.destinygamewiki.com/mediawiki/images/5/54/One_thousand_voices_icon1.jpg",
-                    "https://d2.destinygamewiki.com/mediawiki/images/7/7f/Whisper_of_the_worm_icon1.jpg",
-                    "https://d2.destinygamewiki.com/mediawiki/images/0/0a/The_wardcliff_coil_icon1.png"          
+            {"power":1654,"image":"https://d2.destinygamewiki.com/mediawiki/images/1/19/Tractor_cannon_icon1.png","type":3},
+            {"power":1987,"image":"https://d2.destinygamewiki.com/mediawiki/images/5/54/One_thousand_voices_icon1.jpg","type":1},
+            {"power":2234,"image":"https://d2.destinygamewiki.com/mediawiki/images/7/7f/Whisper_of_the_worm_icon1.jpg","type":1},
+            {"power":1870,"image":"https://d2.destinygamewiki.com/mediawiki/images/0/0a/The_wardcliff_coil_icon1.png","type":2}          
              ]
     },
     {    
@@ -62,25 +62,25 @@
         "level": "level 30",
         "image": "https://cdn.shopify.com/s/files/1/0417/0233/products/emblem_soundtrack_grande_724d61b6-da85-4677-b061-afa527fc6b59.jpg?v=1569386073",
          "primaryweapon":[
-                   "https://d2.destinygamewiki.com/mediawiki/images/a/aa/Thorn_icon1.jpg",
-                   "https://d2.destinygamewiki.com/mediawiki/images/c/c6/The_last_word_icon1.jpg",
-                   "https://d2.destinygamewiki.com/mediawiki/images/6/6a/SUROS_Regime.jpg",
-                   "https://d2.destinygamewiki.com/mediawiki/images/d/dd/Midnight_coup_icon1.jpg",
-                   "https://d2.destinygamewiki.com/mediawiki/images/1/1f/Chattering_bone_icon1.jpg",
-                   "https://d2.destinygamewiki.com/mediawiki/images/b/b5/Izanagi%27s_burden_icon1.jpg"             
+            {"power":1354,"image":"https://d2.destinygamewiki.com/mediawiki/images/a/aa/Thorn_icon1.jpg", "type" : 0},
+            {"power":1524,"image":"https://d2.destinygamewiki.com/mediawiki/images/c/c6/The_last_word_icon1.jpg","type":0},
+            {"power":1025,"image":"https://d2.destinygamewiki.com/mediawiki/images/6/6a/SUROS_Regime.jpg","type":0},
+            {"power":1345,"image":"https://d2.destinygamewiki.com/mediawiki/images/d/dd/Midnight_coup_icon1.jpg","type":0},
+            {"power":1264,"image":"https://d2.destinygamewiki.com/mediawiki/images/1/1f/Chattering_bone_icon1.jpg","type":0},
+            {"power":1235,"image":"https://d2.destinygamewiki.com/mediawiki/images/b/b5/Izanagi%27s_burden_icon1.jpg","type":0}             
                  ],
         "specialweapon":[
-                    "https://d2.destinygamewiki.com/mediawiki/images/6/67/Not_forgotten_icon1.jpg",
-                    "https://d2.destinygamewiki.com/mediawiki/images/e/e1/Hard_light_icon1.png",
-                    "https://d2.destinygamewiki.com/mediawiki/images/8/86/Uriel%27s_gift_icon1.jpg",
-                    "https://d2.destinygamewiki.com/mediawiki/images/5/54/The_recluse_icon1.jpg",
-                    "https://d2.destinygamewiki.com/mediawiki/images/2/22/Beloved_icon1.jpg"           
+            {"power":1324,"image":"https://d2.destinygamewiki.com/mediawiki/images/6/67/Not_forgotten_icon1.jpg","type":1},
+            {"power":1654,"image":"https://d2.destinygamewiki.com/mediawiki/images/e/e1/Hard_light_icon1.png","type":2},
+            {"power":954,"image":"https://d2.destinygamewiki.com/mediawiki/images/8/86/Uriel%27s_gift_icon1.jpg","type":3},
+            {"power":1459,"image":"https://d2.destinygamewiki.com/mediawiki/images/5/54/The_recluse_icon1.jpg","type":3},
+            {"power":1743,"image":"https://d2.destinygamewiki.com/mediawiki/images/2/22/Beloved_icon1.jpg" ,"type":1}          
             ],
         "heavyweapon":[
-                    "https://d2.destinygamewiki.com/mediawiki/images/1/19/Tractor_cannon_icon1.png",
-                    "https://d2.destinygamewiki.com/mediawiki/images/5/54/One_thousand_voices_icon1.jpg",
-                    "https://d2.destinygamewiki.com/mediawiki/images/7/7f/Whisper_of_the_worm_icon1.jpg",
-                    "https://d2.destinygamewiki.com/mediawiki/images/0/0a/The_wardcliff_coil_icon1.png"          
+            {"power":1654,"image":"https://d2.destinygamewiki.com/mediawiki/images/1/19/Tractor_cannon_icon1.png","type":3},
+            {"power":1987,"image":"https://d2.destinygamewiki.com/mediawiki/images/5/54/One_thousand_voices_icon1.jpg","type":1},
+            {"power":2234,"image":"https://d2.destinygamewiki.com/mediawiki/images/7/7f/Whisper_of_the_worm_icon1.jpg","type":1},
+            {"power":1870,"image":"https://d2.destinygamewiki.com/mediawiki/images/0/0a/The_wardcliff_coil_icon1.png","type":2}          
              ]
     },
     {  
@@ -90,25 +90,25 @@
         "level": "level 22",
         "image": "https://cdn.shopify.com/s/files/1/0279/3062/4082/products/Archivists-Prize-Emblem-1_grande.jpg?v=1587660793",
          "primaryweapon":[
-                   "https://d2.destinygamewiki.com/mediawiki/images/a/aa/Thorn_icon1.jpg",
-                   "https://d2.destinygamewiki.com/mediawiki/images/c/c6/The_last_word_icon1.jpg",
-                   "https://d2.destinygamewiki.com/mediawiki/images/6/6a/SUROS_Regime.jpg",
-                   "https://d2.destinygamewiki.com/mediawiki/images/d/dd/Midnight_coup_icon1.jpg",
-                   "https://d2.destinygamewiki.com/mediawiki/images/1/1f/Chattering_bone_icon1.jpg",
-                   "https://d2.destinygamewiki.com/mediawiki/images/b/b5/Izanagi%27s_burden_icon1.jpg"             
+            {"power":1354,"image":"https://d2.destinygamewiki.com/mediawiki/images/a/aa/Thorn_icon1.jpg", "type" : 0},
+            {"power":1524,"image":"https://d2.destinygamewiki.com/mediawiki/images/c/c6/The_last_word_icon1.jpg","type":0},
+            {"power":1025,"image":"https://d2.destinygamewiki.com/mediawiki/images/6/6a/SUROS_Regime.jpg","type":0},
+            {"power":1345,"image":"https://d2.destinygamewiki.com/mediawiki/images/d/dd/Midnight_coup_icon1.jpg","type":0},
+            {"power":1264,"image":"https://d2.destinygamewiki.com/mediawiki/images/1/1f/Chattering_bone_icon1.jpg","type":0},
+            {"power":1235,"image":"https://d2.destinygamewiki.com/mediawiki/images/b/b5/Izanagi%27s_burden_icon1.jpg","type":0}             
                  ],
         "specialweapon":[
-                    "https://d2.destinygamewiki.com/mediawiki/images/6/67/Not_forgotten_icon1.jpg",
-                    "https://d2.destinygamewiki.com/mediawiki/images/e/e1/Hard_light_icon1.png",
-                    "https://d2.destinygamewiki.com/mediawiki/images/8/86/Uriel%27s_gift_icon1.jpg",
-                    "https://d2.destinygamewiki.com/mediawiki/images/5/54/The_recluse_icon1.jpg",
-                    "https://d2.destinygamewiki.com/mediawiki/images/2/22/Beloved_icon1.jpg"           
+            {"power":1324,"image":"https://d2.destinygamewiki.com/mediawiki/images/6/67/Not_forgotten_icon1.jpg","type":1},
+            {"power":1654,"image":"https://d2.destinygamewiki.com/mediawiki/images/e/e1/Hard_light_icon1.png","type":2},
+            {"power":954,"image":"https://d2.destinygamewiki.com/mediawiki/images/8/86/Uriel%27s_gift_icon1.jpg","type":3},
+            {"power":1459,"image":"https://d2.destinygamewiki.com/mediawiki/images/5/54/The_recluse_icon1.jpg","type":3},
+            {"power":1743,"image":"https://d2.destinygamewiki.com/mediawiki/images/2/22/Beloved_icon1.jpg" ,"type":1}          
             ],
         "heavyweapon":[
-                    "https://d2.destinygamewiki.com/mediawiki/images/1/19/Tractor_cannon_icon1.png",
-                    "https://d2.destinygamewiki.com/mediawiki/images/5/54/One_thousand_voices_icon1.jpg",
-                    "https://d2.destinygamewiki.com/mediawiki/images/7/7f/Whisper_of_the_worm_icon1.jpg",
-                    "https://d2.destinygamewiki.com/mediawiki/images/0/0a/The_wardcliff_coil_icon1.png"          
+            {"power":1654,"image":"https://d2.destinygamewiki.com/mediawiki/images/1/19/Tractor_cannon_icon1.png","type":3},
+            {"power":1987,"image":"https://d2.destinygamewiki.com/mediawiki/images/5/54/One_thousand_voices_icon1.jpg","type":1},
+            {"power":2234,"image":"https://d2.destinygamewiki.com/mediawiki/images/7/7f/Whisper_of_the_worm_icon1.jpg","type":1},
+            {"power":1870,"image":"https://d2.destinygamewiki.com/mediawiki/images/0/0a/The_wardcliff_coil_icon1.png","type":2}          
              ]
     },
     {    
@@ -118,25 +118,25 @@
         "level": "level 30",
          "image": "https://cdn.shopify.com/s/files/1/0279/3062/4082/products/Hellspawn-Emblem-1_grande.jpg?v=1587224052",
          "primaryweapon":[
-                   "https://d2.destinygamewiki.com/mediawiki/images/a/aa/Thorn_icon1.jpg",
-                   "https://d2.destinygamewiki.com/mediawiki/images/c/c6/The_last_word_icon1.jpg",
-                   "https://d2.destinygamewiki.com/mediawiki/images/6/6a/SUROS_Regime.jpg",
-                   "https://d2.destinygamewiki.com/mediawiki/images/d/dd/Midnight_coup_icon1.jpg",
-                   "https://d2.destinygamewiki.com/mediawiki/images/1/1f/Chattering_bone_icon1.jpg",
-                   "https://d2.destinygamewiki.com/mediawiki/images/b/b5/Izanagi%27s_burden_icon1.jpg"             
+            {"power":1354,"image":"https://d2.destinygamewiki.com/mediawiki/images/a/aa/Thorn_icon1.jpg", "type" : 0},
+            {"power":1524,"image":"https://d2.destinygamewiki.com/mediawiki/images/c/c6/The_last_word_icon1.jpg","type":0},
+            {"power":1025,"image":"https://d2.destinygamewiki.com/mediawiki/images/6/6a/SUROS_Regime.jpg","type":0},
+            {"power":1345,"image":"https://d2.destinygamewiki.com/mediawiki/images/d/dd/Midnight_coup_icon1.jpg","type":0},
+            {"power":1264,"image":"https://d2.destinygamewiki.com/mediawiki/images/1/1f/Chattering_bone_icon1.jpg","type":0},
+            {"power":1235,"image":"https://d2.destinygamewiki.com/mediawiki/images/b/b5/Izanagi%27s_burden_icon1.jpg","type":0}             
                  ],
         "specialweapon":[
-                    "https://d2.destinygamewiki.com/mediawiki/images/6/67/Not_forgotten_icon1.jpg",
-                    "https://d2.destinygamewiki.com/mediawiki/images/e/e1/Hard_light_icon1.png",
-                    "https://d2.destinygamewiki.com/mediawiki/images/8/86/Uriel%27s_gift_icon1.jpg",
-                    "https://d2.destinygamewiki.com/mediawiki/images/5/54/The_recluse_icon1.jpg",
-                    "https://d2.destinygamewiki.com/mediawiki/images/2/22/Beloved_icon1.jpg"           
+            {"power":1324,"image":"https://d2.destinygamewiki.com/mediawiki/images/6/67/Not_forgotten_icon1.jpg","type":1},
+            {"power":1654,"image":"https://d2.destinygamewiki.com/mediawiki/images/e/e1/Hard_light_icon1.png","type":2},
+            {"power":954,"image":"https://d2.destinygamewiki.com/mediawiki/images/8/86/Uriel%27s_gift_icon1.jpg","type":3},
+            {"power":1459,"image":"https://d2.destinygamewiki.com/mediawiki/images/5/54/The_recluse_icon1.jpg","type":3},
+            {"power":1743,"image":"https://d2.destinygamewiki.com/mediawiki/images/2/22/Beloved_icon1.jpg" ,"type":1}          
             ],
         "heavyweapon":[
-                    "https://d2.destinygamewiki.com/mediawiki/images/1/19/Tractor_cannon_icon1.png",
-                    "https://d2.destinygamewiki.com/mediawiki/images/5/54/One_thousand_voices_icon1.jpg",
-                    "https://d2.destinygamewiki.com/mediawiki/images/7/7f/Whisper_of_the_worm_icon1.jpg",
-                    "https://d2.destinygamewiki.com/mediawiki/images/0/0a/The_wardcliff_coil_icon1.png"          
+            {"power":1654,"image":"https://d2.destinygamewiki.com/mediawiki/images/1/19/Tractor_cannon_icon1.png","type":3},
+            {"power":1987,"image":"https://d2.destinygamewiki.com/mediawiki/images/5/54/One_thousand_voices_icon1.jpg","type":1},
+            {"power":2234,"image":"https://d2.destinygamewiki.com/mediawiki/images/7/7f/Whisper_of_the_worm_icon1.jpg","type":1},
+            {"power":1870,"image":"https://d2.destinygamewiki.com/mediawiki/images/0/0a/The_wardcliff_coil_icon1.png","type":2}          
              ]
     },
     {    
@@ -146,25 +146,25 @@
         "level": "level 25",
         "image": "https://cdn.shopify.com/s/files/1/0417/0233/products/emblem_219285f8-d7dc-40da-9b16-953ada48abd5_large.png?v=1543948601",
          "primaryweapon":[
-                   "https://d2.destinygamewiki.com/mediawiki/images/a/aa/Thorn_icon1.jpg",
-                   "https://d2.destinygamewiki.com/mediawiki/images/c/c6/The_last_word_icon1.jpg",
-                   "https://d2.destinygamewiki.com/mediawiki/images/6/6a/SUROS_Regime.jpg",
-                   "https://d2.destinygamewiki.com/mediawiki/images/d/dd/Midnight_coup_icon1.jpg",
-                   "https://d2.destinygamewiki.com/mediawiki/images/1/1f/Chattering_bone_icon1.jpg",
-                   "https://d2.destinygamewiki.com/mediawiki/images/b/b5/Izanagi%27s_burden_icon1.jpg"             
+            {"power":1354,"image":"https://d2.destinygamewiki.com/mediawiki/images/a/aa/Thorn_icon1.jpg", "type" : 0},
+            {"power":1524,"image":"https://d2.destinygamewiki.com/mediawiki/images/c/c6/The_last_word_icon1.jpg","type":0},
+            {"power":1025,"image":"https://d2.destinygamewiki.com/mediawiki/images/6/6a/SUROS_Regime.jpg","type":0},
+            {"power":1345,"image":"https://d2.destinygamewiki.com/mediawiki/images/d/dd/Midnight_coup_icon1.jpg","type":0},
+            {"power":1264,"image":"https://d2.destinygamewiki.com/mediawiki/images/1/1f/Chattering_bone_icon1.jpg","type":0},
+            {"power":1235,"image":"https://d2.destinygamewiki.com/mediawiki/images/b/b5/Izanagi%27s_burden_icon1.jpg","type":0}             
                  ],
         "specialweapon":[
-                    "https://d2.destinygamewiki.com/mediawiki/images/6/67/Not_forgotten_icon1.jpg",
-                    "https://d2.destinygamewiki.com/mediawiki/images/e/e1/Hard_light_icon1.png",
-                    "https://d2.destinygamewiki.com/mediawiki/images/8/86/Uriel%27s_gift_icon1.jpg",
-                    "https://d2.destinygamewiki.com/mediawiki/images/5/54/The_recluse_icon1.jpg",
-                    "https://d2.destinygamewiki.com/mediawiki/images/2/22/Beloved_icon1.jpg"           
+            {"power":1324,"image":"https://d2.destinygamewiki.com/mediawiki/images/6/67/Not_forgotten_icon1.jpg","type":1},
+            {"power":1654,"image":"https://d2.destinygamewiki.com/mediawiki/images/e/e1/Hard_light_icon1.png","type":2},
+            {"power":954,"image":"https://d2.destinygamewiki.com/mediawiki/images/8/86/Uriel%27s_gift_icon1.jpg","type":3},
+            {"power":1459,"image":"https://d2.destinygamewiki.com/mediawiki/images/5/54/The_recluse_icon1.jpg","type":3},
+            {"power":1743,"image":"https://d2.destinygamewiki.com/mediawiki/images/2/22/Beloved_icon1.jpg" ,"type":1}          
             ],
         "heavyweapon":[
-                    "https://d2.destinygamewiki.com/mediawiki/images/1/19/Tractor_cannon_icon1.png",
-                    "https://d2.destinygamewiki.com/mediawiki/images/5/54/One_thousand_voices_icon1.jpg",
-                    "https://d2.destinygamewiki.com/mediawiki/images/7/7f/Whisper_of_the_worm_icon1.jpg",
-                    "https://d2.destinygamewiki.com/mediawiki/images/0/0a/The_wardcliff_coil_icon1.png"          
+            {"power":1654,"image":"https://d2.destinygamewiki.com/mediawiki/images/1/19/Tractor_cannon_icon1.png","type":3},
+            {"power":1987,"image":"https://d2.destinygamewiki.com/mediawiki/images/5/54/One_thousand_voices_icon1.jpg","type":1},
+            {"power":2234,"image":"https://d2.destinygamewiki.com/mediawiki/images/7/7f/Whisper_of_the_worm_icon1.jpg","type":1},
+            {"power":1870,"image":"https://d2.destinygamewiki.com/mediawiki/images/0/0a/The_wardcliff_coil_icon1.png","type":2}          
              ]
     }    
 ]
