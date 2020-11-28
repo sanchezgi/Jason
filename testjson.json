@@ -6,12 +6,12 @@
         "level": "level 30",
         "image": "https://cdn.shopify.com/s/files/1/0279/3062/4082/products/Ultraworld-Emblem-1_1200x1200.png?v=1588437835",
         "primaryweapon":[
-                   "https://d2.destinygamewiki.com/mediawiki/images/a/aa/Thorn_icon1.jpg",
-                   "https://d2.destinygamewiki.com/mediawiki/images/c/c6/The_last_word_icon1.jpg",
-                   "https://d2.destinygamewiki.com/mediawiki/images/6/6a/SUROS_Regime.jpg",
-                   "https://d2.destinygamewiki.com/mediawiki/images/d/dd/Midnight_coup_icon1.jpg",
-                   "https://d2.destinygamewiki.com/mediawiki/images/1/1f/Chattering_bone_icon1.jpg",
-                   "https://d2.destinygamewiki.com/mediawiki/images/b/b5/Izanagi%27s_burden_icon1.jpg"             
+            {"power":1354,"image":"https://d2.destinygamewiki.com/mediawiki/images/a/aa/Thorn_icon1.jpg", "type" : 0},
+            {"power":1524,"image":"https://d2.destinygamewiki.com/mediawiki/images/c/c6/The_last_word_icon1.jpg","type":0},
+            {"power":1025,"image":"https://d2.destinygamewiki.com/mediawiki/images/6/6a/SUROS_Regime.jpg","type":0},
+            {"power":1345,"image":"https://d2.destinygamewiki.com/mediawiki/images/d/dd/Midnight_coup_icon1.jpg","type":0},
+            {"power":1264,"image":"https://d2.destinygamewiki.com/mediawiki/images/1/1f/Chattering_bone_icon1.jpg","type":0},
+            {"power":1235,"image":"https://d2.destinygamewiki.com/mediawiki/images/b/b5/Izanagi%27s_burden_icon1.jpg","type":0}             
                  ],
         "specialweapon":[
                     "https://d2.destinygamewiki.com/mediawiki/images/6/67/Not_forgotten_icon1.jpg",
