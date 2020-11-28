@@ -14,11 +14,11 @@
             {"power":1235,"image":"https://d2.destinygamewiki.com/mediawiki/images/b/b5/Izanagi%27s_burden_icon1.jpg","type":0}             
                  ],
         "specialweapon":[
-                    "https://d2.destinygamewiki.com/mediawiki/images/6/67/Not_forgotten_icon1.jpg",
-                    "https://d2.destinygamewiki.com/mediawiki/images/e/e1/Hard_light_icon1.png",
-                    "https://d2.destinygamewiki.com/mediawiki/images/8/86/Uriel%27s_gift_icon1.jpg",
-                    "https://d2.destinygamewiki.com/mediawiki/images/5/54/The_recluse_icon1.jpg",
-                    "https://d2.destinygamewiki.com/mediawiki/images/2/22/Beloved_icon1.jpg"           
+            {"power":1324,"image":"https://d2.destinygamewiki.com/mediawiki/images/6/67/Not_forgotten_icon1.jpg","type":1},
+            {"power":1654,"image":"https://d2.destinygamewiki.com/mediawiki/images/e/e1/Hard_light_icon1.png","type":2},
+            {"power":954,"image":"https://d2.destinygamewiki.com/mediawiki/images/8/86/Uriel%27s_gift_icon1.jpg","type":3},
+            {"power":1459,"image":"https://d2.destinygamewiki.com/mediawiki/images/5/54/The_recluse_icon1.jpg","type":3},
+            {"power":1743,"image":"https://d2.destinygamewiki.com/mediawiki/images/2/22/Beloved_icon1.jpg" ,"type":1}          
             ],
         "heavyweapon":[
                     "https://d2.destinygamewiki.com/mediawiki/images/1/19/Tractor_cannon_icon1.png",
