@@ -5,20 +5,27 @@
         "race": "Exo Male",
         "level": "level 30",
         "image": "https://cdn.shopify.com/s/files/1/0279/3062/4082/products/Ultraworld-Emblem-1_1200x1200.png?v=1588437835",
-        "weapon":[
+        "primaryweapon":[
                    "https://d2.destinygamewiki.com/mediawiki/images/a/aa/Thorn_icon1.jpg",
                    "https://d2.destinygamewiki.com/mediawiki/images/c/c6/The_last_word_icon1.jpg",
-                   "https://d2.destinygamewiki.com/mediawiki/images/5/5f/IMG_8812.JPG",
-                   "https://d2.destinygamewiki.com/mediawiki/images/6/67/Not_forgotten_icon1.jpg",
-                   "https://d2.destinygamewiki.com/mediawiki/images/d/dd/Midnight_coup_icon1.jpg",
-                   "https://d2.destinygamewiki.com/mediawiki/images/e/e1/Hard_light_icon1.png",
-                   "https://d2.destinygamewiki.com/mediawiki/images/7/72/Monte_carlo_icon1.jpg",
                    "https://d2.destinygamewiki.com/mediawiki/images/6/6a/SUROS_Regime.jpg",
-                   "https://d2.destinygamewiki.com/mediawiki/images/8/86/Uriel%27s_gift_icon1.jpg",
-                   "https://d2.destinygamewiki.com/mediawiki/images/7/76/Bad_juju_icon1.jpg",
-                   "https://d2.destinygamewiki.com/mediawiki/images/c/cf/Outbreak_perfected_icon1.jpg",
-                   "https://d2.destinygamewiki.com/mediawiki/images/1/1f/Chattering_bone_icon1.jpg"
-                 ]
+                   "https://d2.destinygamewiki.com/mediawiki/images/d/dd/Midnight_coup_icon1.jpg",
+                   "https://d2.destinygamewiki.com/mediawiki/images/1/1f/Chattering_bone_icon1.jpg",
+                   "https://d2.destinygamewiki.com/mediawiki/images/b/b5/Izanagi%27s_burden_icon1.jpg"             
+                 ],
+        "specialweapon":[
+                    "https://d2.destinygamewiki.com/mediawiki/images/6/67/Not_forgotten_icon1.jpg",
+                    "https://d2.destinygamewiki.com/mediawiki/images/e/e1/Hard_light_icon1.png",
+                    "https://d2.destinygamewiki.com/mediawiki/images/8/86/Uriel%27s_gift_icon1.jpg",
+                    "https://d2.destinygamewiki.com/mediawiki/images/5/54/The_recluse_icon1.jpg",
+                    "https://d2.destinygamewiki.com/mediawiki/images/2/22/Beloved_icon1.jpg"           
+            ],
+        "heavyweapon":[
+                    "https://d2.destinygamewiki.com/mediawiki/images/1/19/Tractor_cannon_icon1.png",
+                    "https://d2.destinygamewiki.com/mediawiki/images/5/54/One_thousand_voices_icon1.jpg",
+                    "https://d2.destinygamewiki.com/mediawiki/images/7/7f/Whisper_of_the_worm_icon1.jpg",
+                    "https://d2.destinygamewiki.com/mediawiki/images/0/0a/The_wardcliff_coil_icon1.png"          
+             ]
     },
     {    
         "power": 1350,
@@ -26,7 +33,27 @@
         "race": "Human Male",
         "level": "level 30",
          "image": "https://cdn.shopify.com/s/files/1/0417/0233/products/1000x1000_ProductImage.png?v=1569599684",
-         "weapon":["https://preview.redd.it/ves8qwinvv551.png?width=1430&format=png&auto=webp&s=bea7664143629daf789183bd5691f9e6c17b06b8","https://preview.redd.it/ves8qwinvv551.png?width=1430&format=png&auto=webp&s=bea7664143629daf789183bd5691f9e6c17b06b8","https://preview.redd.it/ves8qwinvv551.png?width=1430&format=png&auto=webp&s=bea7664143629daf789183bd5691f9e6c17b06b8","https://preview.redd.it/ves8qwinvv551.png?width=1430&format=png&auto=webp&s=bea7664143629daf789183bd5691f9e6c17b06b8"]
+         "primaryweapon":[
+                   "https://d2.destinygamewiki.com/mediawiki/images/a/aa/Thorn_icon1.jpg",
+                   "https://d2.destinygamewiki.com/mediawiki/images/c/c6/The_last_word_icon1.jpg",
+                   "https://d2.destinygamewiki.com/mediawiki/images/6/6a/SUROS_Regime.jpg",
+                   "https://d2.destinygamewiki.com/mediawiki/images/d/dd/Midnight_coup_icon1.jpg",
+                   "https://d2.destinygamewiki.com/mediawiki/images/1/1f/Chattering_bone_icon1.jpg",
+                   "https://d2.destinygamewiki.com/mediawiki/images/b/b5/Izanagi%27s_burden_icon1.jpg"             
+                 ],
+        "specialweapon":[
+                    "https://d2.destinygamewiki.com/mediawiki/images/6/67/Not_forgotten_icon1.jpg",
+                    "https://d2.destinygamewiki.com/mediawiki/images/e/e1/Hard_light_icon1.png",
+                    "https://d2.destinygamewiki.com/mediawiki/images/8/86/Uriel%27s_gift_icon1.jpg",
+                    "https://d2.destinygamewiki.com/mediawiki/images/5/54/The_recluse_icon1.jpg",
+                    "https://d2.destinygamewiki.com/mediawiki/images/2/22/Beloved_icon1.jpg"           
+            ],
+        "heavyweapon":[
+                    "https://d2.destinygamewiki.com/mediawiki/images/1/19/Tractor_cannon_icon1.png",
+                    "https://d2.destinygamewiki.com/mediawiki/images/5/54/One_thousand_voices_icon1.jpg",
+                    "https://d2.destinygamewiki.com/mediawiki/images/7/7f/Whisper_of_the_worm_icon1.jpg",
+                    "https://d2.destinygamewiki.com/mediawiki/images/0/0a/The_wardcliff_coil_icon1.png"          
+             ]
     },
     {    
         "power": 1657,
@@ -34,7 +61,27 @@
         "race": "Awoken Male",
         "level": "level 30",
         "image": "https://cdn.shopify.com/s/files/1/0417/0233/products/emblem_soundtrack_grande_724d61b6-da85-4677-b061-afa527fc6b59.jpg?v=1569386073",
-        "weapon":["https://preview.redd.it/ves8qwinvv551.png?width=1430&format=png&auto=webp&s=bea7664143629daf789183bd5691f9e6c17b06b8","https://preview.redd.it/ves8qwinvv551.png?width=1430&format=png&auto=webp&s=bea7664143629daf789183bd5691f9e6c17b06b8","https://preview.redd.it/ves8qwinvv551.png?width=1430&format=png&auto=webp&s=bea7664143629daf789183bd5691f9e6c17b06b8","https://preview.redd.it/ves8qwinvv551.png?width=1430&format=png&auto=webp&s=bea7664143629daf789183bd5691f9e6c17b06b8"]
+         "primaryweapon":[
+                   "https://d2.destinygamewiki.com/mediawiki/images/a/aa/Thorn_icon1.jpg",
+                   "https://d2.destinygamewiki.com/mediawiki/images/c/c6/The_last_word_icon1.jpg",
+                   "https://d2.destinygamewiki.com/mediawiki/images/6/6a/SUROS_Regime.jpg",
+                   "https://d2.destinygamewiki.com/mediawiki/images/d/dd/Midnight_coup_icon1.jpg",
+                   "https://d2.destinygamewiki.com/mediawiki/images/1/1f/Chattering_bone_icon1.jpg",
+                   "https://d2.destinygamewiki.com/mediawiki/images/b/b5/Izanagi%27s_burden_icon1.jpg"             
+                 ],
+        "specialweapon":[
+                    "https://d2.destinygamewiki.com/mediawiki/images/6/67/Not_forgotten_icon1.jpg",
+                    "https://d2.destinygamewiki.com/mediawiki/images/e/e1/Hard_light_icon1.png",
+                    "https://d2.destinygamewiki.com/mediawiki/images/8/86/Uriel%27s_gift_icon1.jpg",
+                    "https://d2.destinygamewiki.com/mediawiki/images/5/54/The_recluse_icon1.jpg",
+                    "https://d2.destinygamewiki.com/mediawiki/images/2/22/Beloved_icon1.jpg"           
+            ],
+        "heavyweapon":[
+                    "https://d2.destinygamewiki.com/mediawiki/images/1/19/Tractor_cannon_icon1.png",
+                    "https://d2.destinygamewiki.com/mediawiki/images/5/54/One_thousand_voices_icon1.jpg",
+                    "https://d2.destinygamewiki.com/mediawiki/images/7/7f/Whisper_of_the_worm_icon1.jpg",
+                    "https://d2.destinygamewiki.com/mediawiki/images/0/0a/The_wardcliff_coil_icon1.png"          
+             ]
     },
     {  
         "power": 758,
@@ -42,7 +89,27 @@
         "race": "Human Female",
         "level": "level 22",
         "image": "https://cdn.shopify.com/s/files/1/0279/3062/4082/products/Archivists-Prize-Emblem-1_grande.jpg?v=1587660793",
-        "weapon":["https://preview.redd.it/ves8qwinvv551.png?width=1430&format=png&auto=webp&s=bea7664143629daf789183bd5691f9e6c17b06b8","https://preview.redd.it/ves8qwinvv551.png?width=1430&format=png&auto=webp&s=bea7664143629daf789183bd5691f9e6c17b06b8","https://preview.redd.it/ves8qwinvv551.png?width=1430&format=png&auto=webp&s=bea7664143629daf789183bd5691f9e6c17b06b8","https://preview.redd.it/ves8qwinvv551.png?width=1430&format=png&auto=webp&s=bea7664143629daf789183bd5691f9e6c17b06b8"]
+         "primaryweapon":[
+                   "https://d2.destinygamewiki.com/mediawiki/images/a/aa/Thorn_icon1.jpg",
+                   "https://d2.destinygamewiki.com/mediawiki/images/c/c6/The_last_word_icon1.jpg",
+                   "https://d2.destinygamewiki.com/mediawiki/images/6/6a/SUROS_Regime.jpg",
+                   "https://d2.destinygamewiki.com/mediawiki/images/d/dd/Midnight_coup_icon1.jpg",
+                   "https://d2.destinygamewiki.com/mediawiki/images/1/1f/Chattering_bone_icon1.jpg",
+                   "https://d2.destinygamewiki.com/mediawiki/images/b/b5/Izanagi%27s_burden_icon1.jpg"             
+                 ],
+        "specialweapon":[
+                    "https://d2.destinygamewiki.com/mediawiki/images/6/67/Not_forgotten_icon1.jpg",
+                    "https://d2.destinygamewiki.com/mediawiki/images/e/e1/Hard_light_icon1.png",
+                    "https://d2.destinygamewiki.com/mediawiki/images/8/86/Uriel%27s_gift_icon1.jpg",
+                    "https://d2.destinygamewiki.com/mediawiki/images/5/54/The_recluse_icon1.jpg",
+                    "https://d2.destinygamewiki.com/mediawiki/images/2/22/Beloved_icon1.jpg"           
+            ],
+        "heavyweapon":[
+                    "https://d2.destinygamewiki.com/mediawiki/images/1/19/Tractor_cannon_icon1.png",
+                    "https://d2.destinygamewiki.com/mediawiki/images/5/54/One_thousand_voices_icon1.jpg",
+                    "https://d2.destinygamewiki.com/mediawiki/images/7/7f/Whisper_of_the_worm_icon1.jpg",
+                    "https://d2.destinygamewiki.com/mediawiki/images/0/0a/The_wardcliff_coil_icon1.png"          
+             ]
     },
     {    
         "power": 1578,
@@ -50,7 +117,27 @@
         "race": "Awoken Female",
         "level": "level 30",
          "image": "https://cdn.shopify.com/s/files/1/0279/3062/4082/products/Hellspawn-Emblem-1_grande.jpg?v=1587224052",
-        "weapon":["https://preview.redd.it/ves8qwinvv551.png?width=1430&format=png&auto=webp&s=bea7664143629daf789183bd5691f9e6c17b06b8","https://preview.redd.it/ves8qwinvv551.png?width=1430&format=png&auto=webp&s=bea7664143629daf789183bd5691f9e6c17b06b8","https://preview.redd.it/ves8qwinvv551.png?width=1430&format=png&auto=webp&s=bea7664143629daf789183bd5691f9e6c17b06b8","https://preview.redd.it/ves8qwinvv551.png?width=1430&format=png&auto=webp&s=bea7664143629daf789183bd5691f9e6c17b06b8"]
+         "primaryweapon":[
+                   "https://d2.destinygamewiki.com/mediawiki/images/a/aa/Thorn_icon1.jpg",
+                   "https://d2.destinygamewiki.com/mediawiki/images/c/c6/The_last_word_icon1.jpg",
+                   "https://d2.destinygamewiki.com/mediawiki/images/6/6a/SUROS_Regime.jpg",
+                   "https://d2.destinygamewiki.com/mediawiki/images/d/dd/Midnight_coup_icon1.jpg",
+                   "https://d2.destinygamewiki.com/mediawiki/images/1/1f/Chattering_bone_icon1.jpg",
+                   "https://d2.destinygamewiki.com/mediawiki/images/b/b5/Izanagi%27s_burden_icon1.jpg"             
+                 ],
+        "specialweapon":[
+                    "https://d2.destinygamewiki.com/mediawiki/images/6/67/Not_forgotten_icon1.jpg",
+                    "https://d2.destinygamewiki.com/mediawiki/images/e/e1/Hard_light_icon1.png",
+                    "https://d2.destinygamewiki.com/mediawiki/images/8/86/Uriel%27s_gift_icon1.jpg",
+                    "https://d2.destinygamewiki.com/mediawiki/images/5/54/The_recluse_icon1.jpg",
+                    "https://d2.destinygamewiki.com/mediawiki/images/2/22/Beloved_icon1.jpg"           
+            ],
+        "heavyweapon":[
+                    "https://d2.destinygamewiki.com/mediawiki/images/1/19/Tractor_cannon_icon1.png",
+                    "https://d2.destinygamewiki.com/mediawiki/images/5/54/One_thousand_voices_icon1.jpg",
+                    "https://d2.destinygamewiki.com/mediawiki/images/7/7f/Whisper_of_the_worm_icon1.jpg",
+                    "https://d2.destinygamewiki.com/mediawiki/images/0/0a/The_wardcliff_coil_icon1.png"          
+             ]
     },
     {    
         "power": 985,
@@ -58,6 +145,26 @@
         "race": "Exo Female",
         "level": "level 25",
         "image": "https://cdn.shopify.com/s/files/1/0417/0233/products/emblem_219285f8-d7dc-40da-9b16-953ada48abd5_large.png?v=1543948601",
-        "weapon":["https://preview.redd.it/ves8qwinvv551.png?width=1430&format=png&auto=webp&s=bea7664143629daf789183bd5691f9e6c17b06b8","https://preview.redd.it/ves8qwinvv551.png?width=1430&format=png&auto=webp&s=bea7664143629daf789183bd5691f9e6c17b06b8","https://preview.redd.it/ves8qwinvv551.png?width=1430&format=png&auto=webp&s=bea7664143629daf789183bd5691f9e6c17b06b8","https://preview.redd.it/ves8qwinvv551.png?width=1430&format=png&auto=webp&s=bea7664143629daf789183bd5691f9e6c17b06b8"]
+         "primaryweapon":[
+                   "https://d2.destinygamewiki.com/mediawiki/images/a/aa/Thorn_icon1.jpg",
+                   "https://d2.destinygamewiki.com/mediawiki/images/c/c6/The_last_word_icon1.jpg",
+                   "https://d2.destinygamewiki.com/mediawiki/images/6/6a/SUROS_Regime.jpg",
+                   "https://d2.destinygamewiki.com/mediawiki/images/d/dd/Midnight_coup_icon1.jpg",
+                   "https://d2.destinygamewiki.com/mediawiki/images/1/1f/Chattering_bone_icon1.jpg",
+                   "https://d2.destinygamewiki.com/mediawiki/images/b/b5/Izanagi%27s_burden_icon1.jpg"             
+                 ],
+        "specialweapon":[
+                    "https://d2.destinygamewiki.com/mediawiki/images/6/67/Not_forgotten_icon1.jpg",
+                    "https://d2.destinygamewiki.com/mediawiki/images/e/e1/Hard_light_icon1.png",
+                    "https://d2.destinygamewiki.com/mediawiki/images/8/86/Uriel%27s_gift_icon1.jpg",
+                    "https://d2.destinygamewiki.com/mediawiki/images/5/54/The_recluse_icon1.jpg",
+                    "https://d2.destinygamewiki.com/mediawiki/images/2/22/Beloved_icon1.jpg"           
+            ],
+        "heavyweapon":[
+                    "https://d2.destinygamewiki.com/mediawiki/images/1/19/Tractor_cannon_icon1.png",
+                    "https://d2.destinygamewiki.com/mediawiki/images/5/54/One_thousand_voices_icon1.jpg",
+                    "https://d2.destinygamewiki.com/mediawiki/images/7/7f/Whisper_of_the_worm_icon1.jpg",
+                    "https://d2.destinygamewiki.com/mediawiki/images/0/0a/The_wardcliff_coil_icon1.png"          
+             ]
     }    
 ]
