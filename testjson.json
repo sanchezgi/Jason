@@ -25,7 +25,10 @@
             {"power":1987,"image":"https://d2.destinygamewiki.com/mediawiki/images/5/54/One_thousand_voices_icon1.jpg","type":1},
             {"power":2234,"image":"https://d2.destinygamewiki.com/mediawiki/images/7/7f/Whisper_of_the_worm_icon1.jpg","type":1},
             {"power":1870,"image":"https://d2.destinygamewiki.com/mediawiki/images/0/0a/The_wardcliff_coil_icon1.png","type":2}          
-             ]
+             ],
+        "helmet":[
+             {"power":1584,"image":"https://d2.destinygamewiki.com/mediawiki/images/0/01/Helm_of_saint-14_icon1.jpg"}
+        ]
     },
     {    
         "power": 1350,
@@ -53,7 +56,10 @@
             {"power":1987,"image":"https://d2.destinygamewiki.com/mediawiki/images/5/54/One_thousand_voices_icon1.jpg","type":1},
             {"power":2234,"image":"https://d2.destinygamewiki.com/mediawiki/images/7/7f/Whisper_of_the_worm_icon1.jpg","type":1},
             {"power":1870,"image":"https://d2.destinygamewiki.com/mediawiki/images/0/0a/The_wardcliff_coil_icon1.png","type":2}          
-             ]
+             ],
+         "helmet":[
+             {"power":1584,"image":"https://d2.destinygamewiki.com/mediawiki/images/0/01/Helm_of_saint-14_icon1.jpg"}
+        ]
     },
     {    
         "power": 1657,
@@ -81,7 +87,10 @@
             {"power":1987,"image":"https://d2.destinygamewiki.com/mediawiki/images/5/54/One_thousand_voices_icon1.jpg","type":1},
             {"power":2234,"image":"https://d2.destinygamewiki.com/mediawiki/images/7/7f/Whisper_of_the_worm_icon1.jpg","type":1},
             {"power":1870,"image":"https://d2.destinygamewiki.com/mediawiki/images/0/0a/The_wardcliff_coil_icon1.png","type":2}          
-             ]
+             ],
+         "helmet":[
+             {"power":1584,"image":"https://d2.destinygamewiki.com/mediawiki/images/0/01/Helm_of_saint-14_icon1.jpg"}
+        ]
     },
     {  
         "power": 758,
@@ -109,7 +118,10 @@
             {"power":1987,"image":"https://d2.destinygamewiki.com/mediawiki/images/5/54/One_thousand_voices_icon1.jpg","type":1},
             {"power":2234,"image":"https://d2.destinygamewiki.com/mediawiki/images/7/7f/Whisper_of_the_worm_icon1.jpg","type":1},
             {"power":1870,"image":"https://d2.destinygamewiki.com/mediawiki/images/0/0a/The_wardcliff_coil_icon1.png","type":2}          
-             ]
+             ],
+         "helmet":[
+             {"power":1584,"image":"https://d2.destinygamewiki.com/mediawiki/images/0/01/Helm_of_saint-14_icon1.jpg"}
+        ]
     },
     {    
         "power": 1578,
@@ -137,7 +149,10 @@
             {"power":1987,"image":"https://d2.destinygamewiki.com/mediawiki/images/5/54/One_thousand_voices_icon1.jpg","type":1},
             {"power":2234,"image":"https://d2.destinygamewiki.com/mediawiki/images/7/7f/Whisper_of_the_worm_icon1.jpg","type":1},
             {"power":1870,"image":"https://d2.destinygamewiki.com/mediawiki/images/0/0a/The_wardcliff_coil_icon1.png","type":2}          
-             ]
+             ],
+         "helmet":[
+             {"power":1584,"image":"https://d2.destinygamewiki.com/mediawiki/images/0/01/Helm_of_saint-14_icon1.jpg"}
+        ]
     },
     {    
         "power": 985,
@@ -165,6 +180,9 @@
             {"power":1987,"image":"https://d2.destinygamewiki.com/mediawiki/images/5/54/One_thousand_voices_icon1.jpg","type":1},
             {"power":2234,"image":"https://d2.destinygamewiki.com/mediawiki/images/7/7f/Whisper_of_the_worm_icon1.jpg","type":1},
             {"power":1870,"image":"https://d2.destinygamewiki.com/mediawiki/images/0/0a/The_wardcliff_coil_icon1.png","type":2}          
-             ]
+             ],
+         "helmet":[
+             {"power":1584,"image":"https://d2.destinygamewiki.com/mediawiki/images/0/01/Helm_of_saint-14_icon1.jpg"}
+        ]
     }    
 ]
