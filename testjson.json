@@ -21,10 +21,10 @@
             {"power":1743,"image":"https://d2.destinygamewiki.com/mediawiki/images/2/22/Beloved_icon1.jpg" ,"type":1}          
             ],
         "heavyweapon":[
-                    "https://d2.destinygamewiki.com/mediawiki/images/1/19/Tractor_cannon_icon1.png",
-                    "https://d2.destinygamewiki.com/mediawiki/images/5/54/One_thousand_voices_icon1.jpg",
-                    "https://d2.destinygamewiki.com/mediawiki/images/7/7f/Whisper_of_the_worm_icon1.jpg",
-                    "https://d2.destinygamewiki.com/mediawiki/images/0/0a/The_wardcliff_coil_icon1.png"          
+            {"power":1654,"image":"https://d2.destinygamewiki.com/mediawiki/images/1/19/Tractor_cannon_icon1.png","type":3},
+            {"power":1987,"image":"https://d2.destinygamewiki.com/mediawiki/images/5/54/One_thousand_voices_icon1.jpg","type":1},
+            {"power":2234,"image":"https://d2.destinygamewiki.com/mediawiki/images/7/7f/Whisper_of_the_worm_icon1.jpg","type":1},
+            {"power":1870,"image":"https://d2.destinygamewiki.com/mediawiki/images/0/0a/The_wardcliff_coil_icon1.png","type":2}          
              ]
     },
     {    
