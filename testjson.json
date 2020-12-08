@@ -27,7 +27,10 @@
             {"power":1870,"image":"https://d2.destinygamewiki.com/mediawiki/images/0/0a/The_wardcliff_coil_icon1.png","type":2}          
              ],
         "helmet":[
-             {"power":1584,"image":"https://d2.destinygamewiki.com/mediawiki/images/0/01/Helm_of_saint-14_icon1.jpg"}
+             {"power":1584,"image":"https://d2.destinygamewiki.com/mediawiki/images/0/01/Helm_of_saint-14_icon1.jpg"},
+             {"power":1345,"image":"https://d2.destinygamewiki.com/mediawiki/images/4/49/One-eyed_mask_icon1.jpg"},
+             {"power":1965,"image":"https://d2.destinygamewiki.com/mediawiki/images/b/b1/Helm_of_the_emperor%27s_champion_icon1.jpg"},
+             {"power":874,"image":"https://d2.destinygamewiki.com/mediawiki/images/9/9d/Mask_of_the_quiet_one_icon1.jpg"}
         ]
     },
     {    
@@ -37,28 +40,28 @@
         "level": "level 30",
          "image": "https://cdn.shopify.com/s/files/1/0417/0233/products/1000x1000_ProductImage.png?v=1569599684",
          "primaryweapon":[
-            {"power":1354,"image":"https://d2.destinygamewiki.com/mediawiki/images/a/aa/Thorn_icon1.jpg", "type" : 0},
-            {"power":1524,"image":"https://d2.destinygamewiki.com/mediawiki/images/c/c6/The_last_word_icon1.jpg","type":0},
-            {"power":1025,"image":"https://d2.destinygamewiki.com/mediawiki/images/6/6a/SUROS_Regime.jpg","type":0},
-            {"power":1345,"image":"https://d2.destinygamewiki.com/mediawiki/images/d/dd/Midnight_coup_icon1.jpg","type":0},
-            {"power":1264,"image":"https://d2.destinygamewiki.com/mediawiki/images/1/1f/Chattering_bone_icon1.jpg","type":0},
-            {"power":1235,"image":"https://d2.destinygamewiki.com/mediawiki/images/b/b5/Izanagi%27s_burden_icon1.jpg","type":0}             
+            {"power":1384,"image":"https://d2.destinygamewiki.com/mediawiki/images/5/5f/IMG_8812.JPG", "type" : 0},
+            {"power":1424,"image":"https://d2.destinygamewiki.com/mediawiki/images/d/dd/Midnight_coup_icon1.jpg","type":0},
+            {"power":1935,"image":"https://d2.destinygamewiki.com/mediawiki/images/7/72/Monte_carlo_icon1.jpg","type":0},
+            {"power":1875,"image":"https://d2.destinygamewiki.com/mediawiki/images/d/dd/Midnight_coup_icon1.jpg","type":0},
+            {"power":1084,"image":"https://d2.destinygamewiki.com/mediawiki/images/7/70/Revoker_icon1.jpg","type":1}             
                  ],
         "specialweapon":[
-            {"power":1324,"image":"https://d2.destinygamewiki.com/mediawiki/images/6/67/Not_forgotten_icon1.jpg","type":1},
-            {"power":1654,"image":"https://d2.destinygamewiki.com/mediawiki/images/e/e1/Hard_light_icon1.png","type":2},
-            {"power":954,"image":"https://d2.destinygamewiki.com/mediawiki/images/8/86/Uriel%27s_gift_icon1.jpg","type":3},
-            {"power":1459,"image":"https://d2.destinygamewiki.com/mediawiki/images/5/54/The_recluse_icon1.jpg","type":3},
-            {"power":1743,"image":"https://d2.destinygamewiki.com/mediawiki/images/2/22/Beloved_icon1.jpg" ,"type":1}          
+            {"power":1454,"image":"https://d2.destinygamewiki.com/mediawiki/images/7/73/Lord_of_wolves_icon1.jpg","type":1},
+            {"power":1963,"image":"https://d2.destinygamewiki.com/mediawiki/images/2/2d/Ikelos-SG-v1.0.1_Icon1.jpg","type":1},
+            {"power":935,"image":"https://d2.destinygamewiki.com/mediawiki/images/e/e7/Erentil_fr4_icon1.jpg","type":3},
+            {"power":1789,"image":"https://d2.destinygamewiki.com/mediawiki/images/f/f4/Polaris_lance_icon1.jpg","type":1}         
             ],
         "heavyweapon":[
-            {"power":1654,"image":"https://d2.destinygamewiki.com/mediawiki/images/1/19/Tractor_cannon_icon1.png","type":3},
-            {"power":1987,"image":"https://d2.destinygamewiki.com/mediawiki/images/5/54/One_thousand_voices_icon1.jpg","type":1},
-            {"power":2234,"image":"https://d2.destinygamewiki.com/mediawiki/images/7/7f/Whisper_of_the_worm_icon1.jpg","type":1},
-            {"power":1870,"image":"https://d2.destinygamewiki.com/mediawiki/images/0/0a/The_wardcliff_coil_icon1.png","type":2}          
+            {"power":1454,"image":"https://d2.destinygamewiki.com/mediawiki/images/e/e5/Leviathan%27s_breath_icon1.jpg","type":2},
+            {"power":1887,"image":"https://d2.destinygamewiki.com/mediawiki/images/2/20/Deathbringer_icon1.jpg","type":3},
+            {"power":2034,"image":"https://d2.destinygamewiki.com/mediawiki/images/6/64/Sins_of_the_past_icon1.jpg","type":3}         
              ],
          "helmet":[
-             {"power":1584,"image":"https://d2.destinygamewiki.com/mediawiki/images/0/01/Helm_of_saint-14_icon1.jpg"}
+             {"power":1374,"image":"https://d2.destinygamewiki.com/mediawiki/images/b/b7/Astrocyte_verse_icon1.jpg"},
+             {"power":2051,"image":"https://d2.destinygamewiki.com/mediawiki/images/2/2a/Skull_of_dire_ahamkara_icon1.jpg"},
+             {"power":1056,"image":"https://d2.destinygamewiki.com/mediawiki/images/f/f3/The_stag_icon1.jpg"},
+             {"power":1784,"image":"https://d2.destinygamewiki.com/mediawiki/images/1/1b/Omega_mechanos_crown_icon1.jpg"}
         ]
     },
     {    
