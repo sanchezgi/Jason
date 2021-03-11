@@ -1,0 +1,21 @@
+{
+	"bands": [{
+			"name": "Muse",
+			"image": "url",
+			"longitude": "5",
+			"latitude": "3"
+		},
+		{
+			"name": "Rock",
+			"image": "url",
+			"longitude": "2",
+			"latitude": "1"
+		},
+		{
+			"name": "Pop",
+			"image": "url",
+			"longitude": "8",
+			"latitude": "2"
+		}
+	]
+}
